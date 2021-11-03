@@ -3,7 +3,7 @@
 session_start(); 
 
 include 'apanel/funcs.php';
-
+//new comment
 $token = generate_form_key();
 
 ?>
